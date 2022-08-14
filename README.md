@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Kevin-Chika Ikechukwu</h1>
 <h3 align="center">An Upcoming Software Engineer studying software engineering in the University..</h3>
 
-<img align=right width=400 src="https://images.unsplash.com/photo-1607706189992-eae578626c86?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80">
+<img align=center width=400 src="https://images.unsplash.com/photo-1607706189992-eae578626c86?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keviinscript&label=Profile%20views&color=0e75b6&style=flat" alt="keviinscript" /> </p>
 
